@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ack-mox.github.io/sitemap.xml
